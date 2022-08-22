@@ -5,3 +5,4 @@ Modified from Odyssey-2_2017_TRX of N7DDC. Redesigned the schematic and PCB. Bec
 2. The Ethernet phy is replaced by KSZ9021RL from KSZ9031RN, which is not easy to buy.
 3. The PCB size is controlled within 10*10, and the HF-AMP board is connected to the main board through pins, so that different power amplifier boards can be designed more flexibly
 4. The power supply part is redesigned, with higher efficiency and lower noise.
+![1](https://user-images.githubusercontent.com/51268719/185849053-d472cdc1-8167-4232-a641-7b9bb5d2c993.jpg)
